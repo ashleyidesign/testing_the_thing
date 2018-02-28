@@ -1,0 +1,12 @@
+.wrapper {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    max-width: 100%;
+}
+.hero {
+    max-height: 400px;
+    overflow: hidden;
+}
